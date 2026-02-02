@@ -1,0 +1,5 @@
+{
+  "name": "PDF to Markdown Converter",
+  "description": "A high-performance tool that converts PDF documents into structured Markdown using Gemini AI. Features real-time preview, structure preservation, and seamless export.",
+  "requestFramePermissions": []
+}
